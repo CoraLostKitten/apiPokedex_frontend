@@ -16,7 +16,7 @@ export default function Navbar() {
     <div className="navbar bg-red-600 text-white shadow-lg px-4 md:px-10 sticky top-0 z-50">
       <div className="flex-1">
         <Link to="/" className="text-xl font-bold tracking-tighter uppercase">
-          Poké<span className="text-yellow-400">dex</span> Pro
+          Poké<span className="text-yellow-400">dex</span>
         </Link>
       </div>
 
